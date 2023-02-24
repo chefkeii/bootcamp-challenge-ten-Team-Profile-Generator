@@ -1,0 +1,23 @@
+{
+  "name": "bootcamp-challenge-ten-team-profile-generator",
+  "version": "1.0.0",
+  "description": "bootcamp-challenge-ten-Team-Profile-Generator Object-Oriented Programming Challenge:  # 10 Object-Oriented Programming: Team Profile Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chefkeii/bootcamp-challenge-ten-Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chefkeii/bootcamp-challenge-ten-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/chefkeii/bootcamp-challenge-ten-Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
